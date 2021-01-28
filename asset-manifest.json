@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rcc-to-do-list-app/static/css/main.6b3dc28a.chunk.css",
+    "main.js": "/rcc-to-do-list-app/static/js/main.1b81a784.chunk.js",
+    "main.js.map": "/rcc-to-do-list-app/static/js/main.1b81a784.chunk.js.map",
+    "runtime-main.js": "/rcc-to-do-list-app/static/js/runtime-main.71e018b3.js",
+    "runtime-main.js.map": "/rcc-to-do-list-app/static/js/runtime-main.71e018b3.js.map",
+    "static/js/2.0fbdcae4.chunk.js": "/rcc-to-do-list-app/static/js/2.0fbdcae4.chunk.js",
+    "static/js/2.0fbdcae4.chunk.js.map": "/rcc-to-do-list-app/static/js/2.0fbdcae4.chunk.js.map",
+    "index.html": "/rcc-to-do-list-app/index.html",
+    "static/css/main.6b3dc28a.chunk.css.map": "/rcc-to-do-list-app/static/css/main.6b3dc28a.chunk.css.map",
+    "static/js/2.0fbdcae4.chunk.js.LICENSE.txt": "/rcc-to-do-list-app/static/js/2.0fbdcae4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71e018b3.js",
+    "static/js/2.0fbdcae4.chunk.js",
+    "static/css/main.6b3dc28a.chunk.css",
+    "static/js/main.1b81a784.chunk.js"
+  ]
+}
