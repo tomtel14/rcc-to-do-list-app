@@ -76,7 +76,9 @@ class App extends Component {
         <div className="container">
           <Header />
           <AddToDo addToDo={this.addToDo} />
-          <ToDos todos={this.state.todos} toggleComplete={this.toggleComplete} delToDo={this.delToDo} />
+          <div className="todo-cont">
+            <ToDos todos={this.state.todos} toggleComplete={this.toggleComplete} delToDo={this.delToDo} />
+          </div>
           <ClearToDos todos={this.state.todos} clearToDos={this.clearToDos} />
         </div>
       </div>
